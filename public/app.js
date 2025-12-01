@@ -1,7 +1,7 @@
 // ----------------------------------------------
 // Configurable cycle time (in minutes)
 // ----------------------------------------------
-const CYCLE_MINUTES = .25; // change this for real washer/dryer time
+const CYCLE_MINUTES = .1; // change this for real washer/dryer time
 const CYCLE_MS = CYCLE_MINUTES * 60 * 1000;
 
 // ----------------------------------------------
